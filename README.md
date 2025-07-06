@@ -2,7 +2,7 @@
 
 ## Live App
 
-_ [[Add your Streamlit Cloud link here](https://demandforecastinginventory.streamlit.app/)]_  
+_ [[Live App](https://demandforecastinginventory.streamlit.app/)]_  
 This project is an **interactive time-series forecasting web application** built with **Streamlit** and powered by **Prophet**, designed to help businesses forecast product demand across multiple product families, aiding in inventory planning and optimization.
 
 ---
